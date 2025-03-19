@@ -25,7 +25,7 @@ class ProfileView extends StatelessWidget {
             ),
             const SizedBox(height: 10),
             Text(
-              "We're crafting a better profile experience to help you manage your account efficiently!",
+              "We're building an amazing profile experince for you to manage your account!",
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 16,

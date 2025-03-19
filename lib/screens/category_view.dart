@@ -25,7 +25,7 @@ class CategoryView extends StatelessWidget {
             ),
             const SizedBox(height: 10),
             Text(
-              "We're working to provide you with an enhanced category browsing experience!",
+              "We're working hard to bring you a great category browsing experience!",
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 16,
